@@ -9,5 +9,5 @@ In this repository I'll be adding my minimalistic implementations of various RL 
 
 ---
 
-**You can read about my journey in RL [here](./my_path_in_RL.md).**
+**You can read about my journey in RL [here](./my_path_in_RL.md).** <br>
 **[Here](./suggested_path_in_RL.md) is the path I would suggest to a beginner in RL.**
