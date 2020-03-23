@@ -1,7 +1,7 @@
 
 # My path in RL
 
-Starting with reinforcement learning gets really overwhelming for a beginner. There is no clear visible path to follow and hence you have to experiment a lot to carve out your own learning path. <br>
+Starting with reinforcement learning gets really overwhelming for a beginner. There is no clear visible [path to follow](./suggested_path_in_RL.md) and hence you have to experiment a lot to carve out your own learning path. <br>
 Here I'll be sharing my own experience and the steps I took to get started, learn, and move towards advanced topics to application development or research.<br>
 
 #### 1. Introduction to Reinforcement Learning -  David Silver's UCL lectures [link](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) (October 2018)
