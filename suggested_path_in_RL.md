@@ -1,5 +1,5 @@
 
-## Suggested Path for a beginner in Reinforcement Learning
+# Suggested Path for a beginner in Reinforcement Learning
 
 Based on [my learning experience](./my_path_in_RL.md) and the resources I used for learning myself, following is the course I would suggest to someone starting new in Reinforcement Learning.
 
@@ -7,7 +7,7 @@ Based on [my learning experience](./my_path_in_RL.md) and the resources I used f
 
 #### 1. Reinforcement Learning Specialization by University of Alberta [link](https://www.coursera.org/specializations/reinforcement-learning)
 
-- One of the best course of get you started in RL. Follow the book along with course, and finish all the reading assignments asked to do.
+- One of the best course to get you started in RL. Follow the RL book along with course, and finish all the reading assignments asked to do.
 - It'll help you clear the concepts in tabular settings first and then extend those concepts to function approximation case.
 - Alternatively you can also refer to [David Silver's course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ).
 
@@ -20,8 +20,8 @@ Based on [my learning experience](./my_path_in_RL.md) and the resources I used f
 
 #### 3. OpenAI SpinningUp [link](https://spinningup.openai.com/en/latest/index.html)
 
-- Spinning Up is one of the most awesome resource to getting started as a researcher in RL.
-- It has contains the list of key papers in RL and DRL research.
+- Spinning Up is one of the most awesome resource to get started as a researcher in RL.
+- It contains the list of key papers in RL and DRL research.
 - OpenAI has also released [baselines](https://github.com/openai/baselines), which contains implementation of various algorithms.
 - One of the most important thing is writing your own implementations of various algorithms. It helps you clear your understanding and connect the theoretical concepts to its implementations.
 - [This repository](https://github.com/kinalmehta/Reinforcement-Learning-Notebooks) contains my implementations of various algorithms. I have tried to keep the implementations as simple as possible.
