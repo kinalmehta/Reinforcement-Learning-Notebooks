@@ -5,7 +5,7 @@ Different versions of DQN for some of the OpanAI Gym environment.
 
 #### To-Do
 - [x] DQN implementation [1,2] [notebook](DQN_torch.ipynb)
-- [ ] Double Q-Learning [3]
+- [x] Double Q-Learning [3]
 - [ ] Dueling Network Architectures for DRL [4]
 - [ ] Prioritized Experience Replay [5]
 
